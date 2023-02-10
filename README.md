@@ -1,4 +1,4 @@
 ## bootstrap
 
-- Это landing page [смотрите сами](https://ker-yaqw.github.io/project_HKY/app/)
+- Это landing page [смотрите сами](https://ker-yaqw.github.io/bootstrap/)
 - Используеться Bootstrap
